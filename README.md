@@ -12,4 +12,4 @@ Use sort() to sort by wealth
 
 Use reduce() to add all wealth
 
-Hosted at  https://ravi19999.github.io/DOM-Elements/
+Hosted at https://ravi19999.github.io/DOM-Array-Methods/
